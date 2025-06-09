@@ -1,0 +1,36 @@
+@charset "UTF-8";
+p {
+  color: maroon;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: pink;
+  padding: 20px;
+}
+h1, h2, h3 {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  color: red;
+}
+
+span {color: red;}
+.pozadina{
+  background-image: url("Multimedija/pozadina1.jpg");
+}
+.drugapozadina {
+  background-image: url("Multimedija/pozadina2.jpg");
+}
+a:link {
+  color: red;
+  background-color: pink;
+  padding: 2px;
+  line-height: 25px;
+  border: 1px solid maroon;
+  border-color: maroon;
+}
+a:hover{
+  background-color: gray;
+}
+img {
+  height: 400px;
+}
