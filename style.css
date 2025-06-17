@@ -1,0 +1,61 @@
+@charset "UTF-8";
+body{
+  margin: 0px;
+}
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h1{
+  text-align: center;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: rgb(255, 255, 255);
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a{
+  color: rgb(27, 99, 167);
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: rgb(237, 237, 237);
+}
+.navbar li{
+  float: left;
+}
+p {
+  color: rgb(41, 96, 174);
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: white;
+  padding: 20px;
+}
+h1 {
+  font-family: TenaCorko, "TenaCorko";
+  color: white;
+  font-size: 50px
+}
+h2, h3, h4 {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  color: white;
+}
+span {color: rgb(248, 73, 175);}
+body{
+  background-image: url("Multimedija/pozadina1.1.jpg");
+}
+img {
+  height: 400px;
+}
+
+a:link {
+  color: rgb(248, 73, 175);
+  background-color: white;
+}
